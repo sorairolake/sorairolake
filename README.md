@@ -6,7 +6,7 @@ Copyright (C) 2022 Shun Sakai
 
 # Hi there 👋, I'm SorairoLake
 
-**SorairoLake** is a programmer from Nagano, Nagano Prefecture, Japan.
+**SorairoLake** is a programmer from Nagano, Japan.
 
 [![GitHub stats][stats-card]][github-overview-url]
 [![Top languages][top-languages-card]][github-overview-url]
