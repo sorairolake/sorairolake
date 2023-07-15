@@ -13,8 +13,12 @@ Copyright (C) 2022 Shun Sakai
 
 ## Links
 
-- Portfolio: <https://sorairolake.github.io/>
-- Blog: <https://sorairolake.github.io/blog/>
+- Home page: [SorairoLake](https://sorairolake.github.io/)
+- Blog: [SorairoLake's blog](https://sorairolake.github.io/blog/)
+- Twitter: [@sorairolake](https://twitter.com/sorairolake)
+- Misskey.io: [@sorairolake@misskey.io](https://misskey.io/@sorairolake)
+- Japanese Wikipedia: [User:Momiji-Penguin](https://ja.wikipedia.org/wiki/User:Momiji-Penguin)
+- Wikimedia projects: [User:Momiji-Penguin](https://meta.wikimedia.org/wiki/User:Momiji-Penguin)
 
 [stats-card]: https://github-readme-stats.vercel.app/api?username=sorairolake&show_icons=true&theme=ayu-mirage
 [top-languages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=sorairolake&theme=ayu-mirage
