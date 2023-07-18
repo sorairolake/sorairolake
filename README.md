@@ -13,7 +13,7 @@ Copyright (C) 2022 Shun Sakai
 
 ## Links
 
-- Home page: [SorairoLake](https://sorairolake.github.io/)
+- Home page: [SorairoLake's home page](https://sorairolake.github.io/)
 - Blog: [SorairoLake's blog](https://sorairolake.github.io/blog/)
 - Twitter: [@sorairolake](https://twitter.com/sorairolake)
 - Misskey.io: [@sorairolake@misskey.io](https://misskey.io/@sorairolake)
