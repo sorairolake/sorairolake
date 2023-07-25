@@ -1,0 +1,6 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/sorairolake/sorairolake
+
+Files: *
+Copyright: 2022-2023 Shun Sakai
+License: CC-BY-4.0
