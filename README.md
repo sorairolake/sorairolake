@@ -1,7 +1,7 @@
 <!--
-SPDX-License-Identifier: CC-BY-4.0
+SPDX-FileCopyrightText: 2022-2023 Shun Sakai
 
-Copyright (C) 2022 Shun Sakai
+SPDX-License-Identifier: CC-BY-4.0
 -->
 
 # Hi there 👋, I'm SorairoLake
