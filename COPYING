@@ -4,3 +4,7 @@ Source: https://github.com/sorairolake/sorairolake
 Files: *
 Copyright: 2022-2023 Shun Sakai
 License: CC-BY-4.0
+
+Files: .github/*
+Copyright: None
+License: CC0-1.0
