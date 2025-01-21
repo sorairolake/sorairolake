@@ -19,7 +19,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 - PGP public key: [keys.openpgp.org]
 
-[stats-card]: https://github-readme-stats.vercel.app/api?username=sorairolake&show_icons=true&theme=ayu-mirage
+[stats-card]: https://github-readme-stats.vercel.app/api?username=sorairolake&theme=ayu-mirage&show_icons=true&include_all_commits=true
 [top-languages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=sorairolake&theme=ayu-mirage
 [github-overview-url]: https://github.com/sorairolake
 [SorairoLake's home page]: https://sorairolake.github.io/
