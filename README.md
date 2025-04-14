@@ -6,8 +6,6 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Hi there :wave:, I'm SorairoLake
 
-**SorairoLake** is a programmer from Nagano, Japan.
-
 [![GitHub stats][stats-card]][github-overview-url]
 [![Top languages][top-languages-card]][github-overview-url]
 
