@@ -3,9 +3,9 @@
 // SPDX-License-Identifier: CC-BY-4.0
 
 = Hi there :wave:, I'm SorairoLake
-:github-readme-stats-url: https://github-readme-stats.vercel.app/api
-:stats-card: {github-readme-stats-url}?username=sorairolake&theme=ayu-mirage&show_icons=true&include_all_commits=true
-:top-languages-card: {github-readme-stats-url}/top-langs/?username=sorairolake&theme=ayu-mirage
+:github-stats-extended-url: https://github-stats-extended.vercel.app/api
+:stats-card: {github-stats-extended-url}?username=sorairolake&theme=ayu-mirage&show_icons=true&include_all_commits=true
+:top-languages-card: {github-stats-extended-url}/top-langs/?username=sorairolake&theme=ayu-mirage
 :github-overview-url: https://github.com/sorairolake
 :home-page-url: https://sorairolake.github.io/
 :pgp-public-key-url: https://keys.openpgp.org/search?q=716EDD2362B12C9F88059B4717CE07244B595822
